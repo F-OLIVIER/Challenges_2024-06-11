@@ -11,7 +11,7 @@ Pour accéder à l'exemple réalisé dans ce code, voici le lien :
 
 ### Avec des editeurs de vidéo (nécessite un abonnement)
 
-**Via l'éditeur hihaho**
+**Via l'éditeur hihaho**</br>
 Lien explicatif : [https://hihaho.com/blog/four-ways-to-create-clickable-buttons-in-your-interactive-videos/](https://hihaho.com/blog/four-ways-to-create-clickable-buttons-in-your-interactive-videos/)
 
 **Utilisez les "Card" via l'éditeur Youtube**</br>
