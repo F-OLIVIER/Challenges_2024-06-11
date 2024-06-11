@@ -11,6 +11,7 @@ Nous avons réalisé un exemple avec une vidéo Zone 01 en rendant le logo Zone0
 Pour accéder à l'exemple réalisé dans ce code, voici le lien : [https://f-olivier.github.io/Challenges_2024-06-11/](https://f-olivier.github.io/Challenges_2024-06-11/)
 
 ### Avec des editeurs de vidéo (nécessite un abonnement)
+Afin de répondre à la demande pour les réseaux sociaux, voici les solutions possibles à creuser.
 
 **Via l'éditeur hihaho**</br>
 Lien explicatif : [https://hihaho.com/blog/four-ways-to-create-clickable-buttons-in-your-interactive-videos/](https://hihaho.com/blog/four-ways-to-create-clickable-buttons-in-your-interactive-videos/)
