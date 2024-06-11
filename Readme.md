@@ -14,14 +14,14 @@ Pour accéder à l'exemple réalisé dans ce code, voici le lien :
 **Via l'éditeur hihaho**
 Lien explicatif : [https://hihaho.com/blog/four-ways-to-create-clickable-buttons-in-your-interactive-videos/](https://hihaho.com/blog/four-ways-to-create-clickable-buttons-in-your-interactive-videos/)
 
-**Utilisez les "Card" via l'éditeur Youtube**
+**Utilisez les "Card" via l'éditeur Youtube**</br>
 Lien explicatif : [https://www.youtube.com/watch?v=8etyuk0-oAA](https://www.youtube.com/watch?v=8etyuk0-oAA)
 
-**Via l'éditeur Vimeo **
+**Via l'éditeur Vimeo**</br>
 Lien explicatif : [https://vimeo.com/blog/post/how-to-make-interactive-video](https://vimeo.com/blog/post/how-to-make-interactive-video)
 
-Pour allez plus loin : **Tracking d'un objet via edenai**
-Lien explicatif : [https://www.edenai.co/feature/object-tracking-apis](https://www.edenai.co/feature/object-tracking-apis)
+Pour allez plus loin : **Tracking d'un objet via edenai**</br>
+Lien explicatif : [https://www.edenai.co/feature/object-tracking-apis](https://www.edenai.co/feature/object-tracking-apis)</br>
 Le tracking d'un objet étant effectué via le logiciel, il faudra ajouter le lien cliquable par-dessus.
 
 ## 🧑‍💻Author
