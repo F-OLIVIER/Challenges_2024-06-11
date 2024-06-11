@@ -7,6 +7,7 @@ Le challenge est d'intégrer des liens cliquables dans une vidéo. La vidéo doi
 
 ### Avec du code (HTML, Javascript et CSS)
 La vidéo est hébergée sur un serveur et des liens sont positionnés par-dessus la vidéo. Cette méthode est utilisable pour des sites auxquels l'on accède à l'hébergeur.
+Nous avons réalisé un exemple avec une vidéo Zone 01 en rendant le logo Zone01 cliquable (en haut à droite de la vidéo jusqu'à 1 min 10 puis le logo se déplace).
 Pour accéder à l'exemple réalisé dans ce code, voici le lien : [https://f-olivier.github.io/Challenges_2024-06-11/](https://f-olivier.github.io/Challenges_2024-06-11/)
 
 ### Avec des editeurs de vidéo (nécessite un abonnement)
