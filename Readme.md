@@ -3,7 +3,7 @@
 ## 📝 Descriptif
 Le challenge est d'intégrer des liens cliquables dans une vidéo. La vidéo doit être partageable sur tout type de plateforme (web, réseaux sociaux, etc.) avec les liens.
 
-## ⚙️ Solution proposé
+## ⚙️ Solution proposée
 
 ### Avec du code (HTML, Javascript et CSS)
 La vidéo est hébergée sur un serveur et des liens sont positionnés par-dessus la vidéo. Cette méthode est utilisable pour des sites auxquels l'on accède à l'hébergeur.
