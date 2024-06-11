@@ -24,6 +24,7 @@ Pour allez plus loin : **Tracking d'un objet via edenai**</br>
 Lien explicatif : [https://www.edenai.co/feature/object-tracking-apis](https://www.edenai.co/feature/object-tracking-apis)</br>
 Le tracking d'un objet étant effectué via le logiciel, il faudra ajouter le lien cliquable par-dessus.
 
+___
 ## 🧑‍💻Author
 - Nicolas DUVAL
 - Joris BORGES
